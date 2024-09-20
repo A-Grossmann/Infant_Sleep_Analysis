@@ -13,6 +13,9 @@
 
 **Results and Outcomes:**
 
+Markdown
+![Image Description](images/visualization.png)
+
 **Challenges and Lessons Learned:**
 
 **Additional Information:**
