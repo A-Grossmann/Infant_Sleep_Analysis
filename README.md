@@ -14,7 +14,7 @@
 **Results and Outcomes:**
 
 Markdown
-![Image Description](images/visualization.png)
+![Image Description](Sleep_Times_Mean_Shift.png)
 
 **Challenges and Lessons Learned:**
 
