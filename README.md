@@ -1,6 +1,7 @@
 # Infant_Sleep_Analysis
 
 Project Title: Predicting Sleeping Patterns for Infants
+
 Project Overview: Newborn sleep times can be mysterious where they wake up in the middle of the night for no reason, suddenly change, decide that nap isn’t worth taking and a lot changes through one week to the next. This Project was in effort to use the data collected through the app Baby Tracker in a csv file to use predictive modeling finding sleep patterns and suggestions for newborn natural sleep times.  This is meant to put into a format anyone with data from the app can drop the files here and be able to output the same analysis. 
 
 Methodology:
