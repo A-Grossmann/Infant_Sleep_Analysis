@@ -8,8 +8,8 @@
 * Data Acquisition: Collecting data from myself from my child and entering it in.  The trial to form the code is essentially data collected by me.  Eventually, it should be put into a form that the code can by used by others with the baby app just through a drag and drop of the csv file it exports to use for sleep cycle prediction for their child.
 *	Data Preprocessing: Cleaned and prepared the data by reformatting the datatimes
 *	Feature Engineering: New variables were created for rolling 3 hr windows and rolling 24 hr windows to see what was happening witht he infants level of fullness when they went to sleep.  Later a statespace can be analyzed with these variables.
-*	Model Selection and Training: 
-*	Model Evaluation: 
+*	Model Selection and Training: For clustering each cluster was checked against its maximum silohlettes to check proformence of cluster.  CLustering models ran for DBSCAN, MeanShift, KClustering, Gausian Mixed model, polynomial regression drawing.
+*	Model Evaluation: THe clusters were checked for performence using shilohettes.  However, clustering has no validation set. 
 
 **Results and Outcomes:**
 
